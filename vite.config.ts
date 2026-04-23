@@ -7,7 +7,7 @@ import { viteSingleFile } from "vite-plugin-singlefile";
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/monetix-systems/',
+  base: '/Monetix-Systems/',
 })
 
 const __filename = fileURLToPath(import.meta.url);
