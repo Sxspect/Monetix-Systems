@@ -8,7 +8,7 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   base: '/Monetix-Systems/',
-});
+})
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
